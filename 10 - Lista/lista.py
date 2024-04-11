@@ -22,7 +22,8 @@ Listas
             - pop(3) -> Remove da uma posição especifica
         - insert(posição, valor) -> insere o valor em uma posição
         - valor in lista_valor -> retorna true ou false conforme a resposta
-
+        - .sort() -> Orderna permanente na variavel 
+        - sorted(obj) - Retorna ordenação temporaria
 '''
 
 # notas1 = [5,7,8,6,9]
