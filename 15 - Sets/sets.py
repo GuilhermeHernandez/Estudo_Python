@@ -48,8 +48,8 @@ astros_2.add('Sol')
 print(astros_2)
 
 # Removendo itens
-astros_2.remove('makemake')
-astros_2.discard('Lua')
-astros_2.pop()
+astros_2.remove('makemake') # -> Erro se o elemento não existir 
+astros_2.discard('Lua') # -> Não gera erro 
+astros_2.pop() # -> Remove o ultimo elemento
 
 print(astros_2)
