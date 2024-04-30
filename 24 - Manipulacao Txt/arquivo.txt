@@ -1,0 +1,6 @@
+Criador Guilherme Hernandez DEV
+
+Criando um arquivo de texto com pyhton
+Treinando em python para virar FullStack
+Python é usado para inteligencia artificial !
+Variavel que armazena o texto , e vamos inserir ela no arquivo,txt
